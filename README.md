@@ -45,3 +45,9 @@ A simple video player application demonstrating video playback and content stitc
 
 *   **Gradle Sync Issues:** Try `File > Invalidate Caches & Restart`.
 *   **Video Not Playing:** Ensure URLs in `VideoRepository.java` are valid.
+
+## Documents and Release
+
+*   **Technical Document:** [Exoplayer-Video-Stitcher-Document.pdf](https://github.com/dino-tata-elxsi/ExoPlayer-Video-Stitcher/blob/main/Docs/Exoplayer-Video-Stitcher-Document.pdf)
+*   **Unit Test Case Document:** [UT-Document.pdf](https://github.com/dino-tata-elxsi/ExoPlayer-Video-Stitcher/blob/main/Docs/UT-Document.pdf)
+*   **Release Build APK:** [exoplayer-app-release.apk](https://github.com/dino-tata-elxsi/ExoPlayer-Video-Stitcher/blob/main/APK/exoplayer-app-release.apk)
